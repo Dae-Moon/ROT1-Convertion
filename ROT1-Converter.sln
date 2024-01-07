@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34112.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROT1-Converter", "ROT1-Converter.csproj", "{DD6F3BD3-898D-4C75-8A40-7D8D6DE64E71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD6F3BD3-898D-4C75-8A40-7D8D6DE64E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6F3BD3-898D-4C75-8A40-7D8D6DE64E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6F3BD3-898D-4C75-8A40-7D8D6DE64E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6F3BD3-898D-4C75-8A40-7D8D6DE64E71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCFCE510-AD22-43AC-8755-AE5C830D202F}
+	EndGlobalSection
+EndGlobal
